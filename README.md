@@ -3,5 +3,6 @@ Welcome to my Data Analytics Portfolio. I transform raw data into actionable ins
 
 Take a look at my work below
 
-<img width="584" height="351" alt="image" src="https://github.com/user-attachments/assets/28442dc7-5c12-412f-8102-8a8b7a3d6fe1" />
+<img width="526" height="313" alt="image" src="https://github.com/user-attachments/assets/22801f66-0442-4871-b134-ddd0d51632c5" />
+
 
