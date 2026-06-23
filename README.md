@@ -1,5 +1,5 @@
 # Data-analysis-portfolio
-Welcome to my Data Analytics Portfolio. I transform raw data into actionable insights using Excel and SQL. Check out my featured interactive Excel dashboard showing my data modeling and visualization skills.
+Welcome to my Data Analytics Portfolio. Here, I transform raw data into actionable insights using Excel and SQL. Check out my featured interactive Excel dashboard showing my data modeling and visualization skills.
 
 Take a look at my work below
 
