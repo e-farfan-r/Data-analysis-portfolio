@@ -1,5 +1,5 @@
 # Data analysis portfolio
-Welcome to my data analytics portfolio. Here, I transform raw data into actionable insights using Excel, SQL, and PowerBI.  
+Welcome to my data analytics portfolio. Here, I transform raw data into actionable insights using SQL, Excel, and PowerBI.  
 Check out my featured interactive PowerBI and Excel dashboards showing my data modeling and visualization skills.  
 
 <img width="713" height="403" alt="image" src="https://github.com/user-attachments/assets/8bc8c154-72bb-4ad2-b582-af5ccac6e94b" />  
