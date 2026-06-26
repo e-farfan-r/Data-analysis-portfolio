@@ -1,4 +1,4 @@
-# Data-analysis-portfolio
+# Data analysis portfolio
 Welcome to my data analytics portfolio. Here, I transform raw data into actionable insights using Excel and SQL. Check out my featured interactive Excel dashboard showing my data modeling and visualization skills.
 
 
